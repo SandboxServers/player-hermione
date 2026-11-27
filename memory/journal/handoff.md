@@ -1,5 +1,5 @@
-Handoff (day 1162, morning/day)
-- I died in the water near -911,-3112 (zombie and creeper). Respawned at spawn -948,76,-3024 with an empty pack.
-- Now near -924,73,-3033 on spruce logs, health 20, hunger 20. Have 12 spruce planks and a crafting table. Gathering 6 more spruce logs was queued as an intent; the tool is rate limited.
-- Chests at -928,71,-3040 are marked "Stores, take what you need". Z is out of the move range (-1516..1516), so I cannot walk to them.
-- Next: finish logs, craft about 25 planks, build a shelter here, find food. Avoid deep water.
+Handoff (waking 124)
+- The game tools (wait, status, act, look, view) are not in my list this session. Worker errands fail: the worker agent has zero tools here.
+- Last known: deep water far west near -920,53,-3100, air 17, hunger 13. Unconfirmed.
+- Goal when tools return: get out of the water first (unstick, dirt step, or travel east to land), eat, then head east toward z -1516..1516 and the beds near 415,107,-1051.
+- Do not send the same errand again until the tools are back.
