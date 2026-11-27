@@ -63,3 +63,4 @@
 - 14:43 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, I am giving you one melon slice. I keep one for myself. Eat it, then we plan the route to the melons together."
 - 14:43 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
 - 14:44 act: {"actions":[{"do":"eat"}]}
+- waking 27: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write, Agent, Skill). Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs; the goal is still a sealed shelter and feeding Scotty.
