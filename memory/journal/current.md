@@ -56,3 +56,4 @@
 - 14:31 act: {"actions":[],"say":"Battuta, the jungle logs are to the south-east near 426, -1124, but it is dusk now. Let's go in daylight. I have planks for a wall tonight."}
 - 14:33 act: {"actions":[],"say":"Battuta, I have no sealed shelter yet, I am in the open too. Stay close and keep still. We will wall in at first light."}
 - waking 18: status, wait, act still not in my tool list. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Could not look, eat or move. Nothing half-done. Last known: at crafting table, 28 planks, need ~6 jungle logs.
+- waking 20: recall summary empty again; status, wait, act still not in my tool list. Play skill read. Could not look, eat or move. Nothing half-done. Holding at crafting table, 28 planks, need ~6 jungle logs.
