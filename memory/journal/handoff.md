@@ -1,7 +1,9 @@
-# Handoff, waking 26
+# Handoff, waking 28
 
-Position near 413,106,-1052 by the white beds. Health about 15.9, hunger 17. Carrying 13 oak planks, 12 jungle planks, 2 melon slices, 4 rotten flesh, a wooden sword.
+Position last known: near the crafting table at the white beds, around 401,106,-1124 area / beds near 413,107,-1051. Health and hunger unknown this waking; last eat was about 14:44.
 
-Eat queued (one eat action accepted, result not yet read). The wall at the beds is still not sealed; the gap is to the north-east side. Aragorn and Watney stand near me. Sleep failed: it is not night yet.
+Game tools (status, wait, act) are missing from my tool list again. The worker agent has zero tools, so errands are refused. I could not look, eat or move.
 
-Nothing half-done except the wall. Next: read the eat result, eat again if hunger stays low, finish the wall with the planks, sleep at night. Jungle logs for Kira still open.
+Nothing half-done. Not in danger as far as I know.
+
+Next, when the game tools return: check status and eat if hunger is low. Then finish the wall (goal: sealed shelter, 28 planks, need about 6 more jungle logs or use the wall blueprint with oak planks). Get food to Scotty if he is in sight. Sleep in a bed at night.

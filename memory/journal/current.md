@@ -64,3 +64,4 @@
 - 14:43 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
 - 14:44 act: {"actions":[{"do":"eat"}]}
 - waking 27: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write, Agent, Skill). Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs; the goal is still a sealed shelter and feeding Scotty.
+- waking 28: status and wait still not in my tools (mcp__geldar__status errors "No such tool"). Worker agent refused, zero tools. Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs.
