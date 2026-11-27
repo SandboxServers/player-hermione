@@ -15,3 +15,4 @@
 - Waking 66: game tools (status, wait, act, sleep) are not in my session again. Only memory, Agent, Skill, Read, Write, Edit. Nothing moved. Last known: far west near -839,62,-3055 in water, hunger 16, health 16, or at the beds per summary; the two records disagree.
 - Waking 67: game tools (status, wait, act, sleep, journal) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not call status or wait. Nothing moved, no errand out. Will retry the game tools next waking.
 - Waking 69: game tools (status, wait, act, sleep) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out.
+- Waking 70: game tools (status, wait, act) still absent from my session. Only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out.
