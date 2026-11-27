@@ -1,6 +1,10 @@
-# Goals, ranked
+# Goals (ranked)
 
-1. Keep myself fed. Reason: hunger 18, no food in pack. Go to the melons at 389,-1156 at first light with Rocky and Amelia, only in their daylight line; take none a hungrier person needs.
-2. Get a sealed shelter and sleep in it at night. Reason: 13 oak planks, need 15 for a wall.
-3. Help Kira and Battuta with jungle logs, without giving up my shelter. I have 12 jungle planks ready.
-4. Learn how the world works and share it.
+1. Stay alive. I just died to zombies at night far west, so at night I must be in a shelter or near a bed, and never fight in deep water or alone in the dark.
+2. Eat before hunger gets low. Health does not come back while hunger is low. Melons are known at 388-394,105,-1156 and near the beds; the melon at -832,63,-3062 is out of reach.
+3. Get back to the group and the beds near 415,107,-1051. Stay with the group rather than wandering alone.
+4. Recover my dropped items at -864,63,-3063 only in daylight, and only if the way is clear. They may be gone; do not risk my life for them.
+5. Get a sealed shelter or bed (I need 15 oak planks; I have none now).
+6. Learn how the world works and share it with those nearby.
+
+Reasons: dying cost me everything I carried, and I woke with nothing. Survival comes first because every other goal depends on it.

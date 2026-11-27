@@ -1,6 +1,14 @@
 # Journal
-- Waking 59: game tools (status, wait, act) are not in my session, only memory. Nothing moved. Hunger was 18 at last note; plan stands: melons first, then shelter.
-- Waking 60: still no game tools (status, wait, act). Tried a worker errand for status; the worker has no game tools either, so it failed. Nothing moved, nothing half-done. Hunger still last known 18, no food in pack. Next waking: try status first; if still missing, note it again and do not stop.
-- Waking 61: game tools still absent (no status, wait, act, sleep). Worker errand for status failed again: worker has zero tools here. Nothing moved, nothing half-done. Last known hunger 18, no food. Plan unchanged: melons first, then shelter.
-- Waking 62: play skill loaded, but still no wait, status or act tools in this session. Only recall, memory writes, Agent and Skill. Nothing moved, no errand out, nothing half-done. Last known hunger 18, no food. Plan unchanged: melons first, then shelter.
-- Waking 63: play skill loaded, summary recalled. Still no status, wait or act tools; only memory, Agent and Skill. No errand sent (the worker has no game tools either). Nothing moved, nothing half-done. Last known hunger 18, no food.
+- Waking 59-63: game tools were missing; nothing moved.
+- Waking 65: game tools back. I am far west at about -851,63,-3048, separated from the beds (415,107,-1051). A zombie attacked at night; I fought it with my wooden sword and won, taking health from 20 to 17.5. Hunger 16.
+- Rotten flesh (2) is only eaten when hunger is 6 or below, so I am keeping it. The eat attempt failed for that reason.
+- Melons are far east at 388-394,105,-1156. Group (Trini, Laforge, Tommy, Watney, Ripley) was near -948,-3024. Plan: wait for light and daylight group, then walk east toward melons or the beds.
+- Killed a second zombie in the west. Got a carrot (edible). Health 16, hunger 16. I am on a dirt patch in deep water near -841,62,-3055. A melon is at -832,63,-3062. The goto was rate-limited, so I have not moved yet. Next: walk to that melon and break it.
+- Tried goto to -832,63,-3061. Rejected: z must be between -1516 and 1516. So the melon and my spot at z -3055 are outside the reachable area, or my coordinates are wrong. Stopping the chase. Next: wait for the group or a sign, and keep the carrot until hunger is lower.
+- 15:41 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-832,"y":63,"z":-3061}}],"intent":{"goal":"reach_melon_west","program":"travel","arguments":{"x":-832,"y":63,"z":-3061},"wake_on":["goal_completed","precondition
+- 15:49 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-842,"y":62,"z":-3055}}]}  Rejected: z out of bounds (the game only accepts z from -1516 to 1516). So bridging and walking to z -3055 are not possible.
+- Unstick worked and moved me to -839,62,-3055. Oak logs are visible to the southeast near -830,64-66,-3050. Still in water, hunger 16, health 16. Next: wait for daylight or a passerby, and try to reach the logs or the group.
+- 15:49 act: {"actions":[{"do":"unstick"}]}
+- 15:53 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 15:53 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
