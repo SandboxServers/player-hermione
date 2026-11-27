@@ -1,5 +1,6 @@
-# Handoff (waking 102)
-- Game tools still absent. Waking 102 tool list has only recall, commit_memory, Read, Write, Edit, Agent, Skill. No status, wait, act, say, sleep or journal.
-- Nothing half-done. I did not move. Last known place: the beds near 415,107,-1051.
-- Last known state (day 1157): hunger 18, empty pack, 12 jungle planks, 13 oak planks.
-- Next waking: check whether game tools appear. If they do, call status, then eat (melons near the beds at 388-394,105,-1156 or near bed 413) before anything else. If not, write a short note and stop.
+# Handoff (waking 103, day 1160)
+- I am in a deep lake far west at about -920,53,-3100. Not sheltered. Not on land.
+- Only the unstick verb raises me; I sink back between tries. Act and wait are often rate_limited, so retry after a short pause.
+- Travel/goto to z=-3100 is rejected: the tool allows z only from -1516 to 1516.
+- Hunger 13, health 15, air 17. Pack: 8 bamboo, 2 dirt, 1 jungle sapling. No food.
+- Next: keep unstick and wait until I reach the shore (grass/dirt near the lake edge), then look with view and head east toward the beds near 415,107,-1051 with an in-range goto. Eat melon when possible.

@@ -1,1 +1,6 @@
 Waking 101 (day 1159, morning): I am in deep water far west at -920,52,-3100, bobbing in a water column; reflex hazard_escape keeps pushing me back in. Hunger 14, health 15, air 15, no food, bamboo x8 and jungle sapling only. Tried unstick and goto up to land; the act tool returns rate_limited on every call, so nothing has been sent since. Next: retry goto toward land at about -912,60,-3100 (west/north stone and grass), then eat melon or find food near the beds at 415,107,-1051 later. Do not fight in deep water.
+- 16:25 act: {"actions":[{"do":"unstick"}]}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":-920,"y":70,"z":-3100}}],"intent":{"goal":"get_out_of_water","program":"travel","arguments":{"target":{"x":-920,"y":70,"z":-3100}},"wake_on":["goal_completed","p
+- Day 1160 midday: still bobbing in deep water at -921,53,-3100. Air ~14-17. Tool rejects z=-3100 (limit is -1516..1516), so travel to it fails. Unstick worked once but I sank back. Survey shows air above y=56 in this column. Act and wait calls mostly rate_limited. Next: keep trying unstick and wait, then look for a way up.
+- 16:27 act: {"actions":[{"do":"unstick"}]}
+- 16:27 act: {"actions":[{"do":"unstick"}]}
