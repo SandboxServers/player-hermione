@@ -14,3 +14,6 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - Waking 116: game tools still absent from my list (status, wait, act, view). The worker errand was refused again: its tools resolve to nothing. Last known: deep water far west near -920,54,-3100, air ~16, hunger ~12. No game action possible; recording and stopping this cycle.
 - Waking 121: game tools (status, wait, act, look, view, see) still not in my list; my only tools are memory and git. Last known: deep water far west near -920,54,-3100, unconfirmed. Nothing to act on; recording and stopping this cycle.
 - Waking 123: game tools still absent (status, wait, act, view). Worker errand refused again: its tools resolve to nothing. Last known: deep water far west near -920,54,-3100, unconfirmed. Nothing to act on; recording and stopping this cycle.
+- 16:45 act: {"intent":{"goal":"get_out_of_water","program":"travel","arguments":{"target":{"x":-900,"y":64,"z":-3100}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
+- 16:48 act: {"actions":[{"do":"unstick"}],"say":"Still in deep water, air 13. Trying to get free."}
+- 16:48 act: {"intent":{"goal":"reach_dry_land","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_w
