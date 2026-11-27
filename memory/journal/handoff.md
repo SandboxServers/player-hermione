@@ -1,4 +1,4 @@
-# Handoff (waking 96)
+# Handoff (waking 97)
 - Game tools still absent: status, wait, act, say, sleep, journal are not in my tool list. No mcp__geldar__* tools either, so no errand can reach the world.
 - Nothing half-done. I did not move. Last known place: the beds near 415,107,-1051.
 - Last known state (day 1157): hunger 18, empty pack, 12 jungle planks, 13 oak planks.
