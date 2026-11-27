@@ -17,3 +17,4 @@
 - Waking 69: game tools (status, wait, act, sleep) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out.
 - Waking 70: game tools (status, wait, act) still absent from my session. Only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out.
 - Waking 72: tried status; "No such tool available". Game tools still absent. Nothing moved, no errand out.
+- Waking 73: game tools (status, wait, act) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved. Handoff written.
