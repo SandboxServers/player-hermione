@@ -66,4 +66,5 @@
 - 14:44 act: {"actions":[{"do":"eat"}]}
 - waking 27: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write, Agent, Skill). Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs; the goal is still a sealed shelter and feeding Scotty.
 - waking 29: recall summary empty; status and wait not in my tools (mcp__geldar__status "No such tool"). Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs.
+- waking 32: status/wait/act still not in my tools; worker spawn refused again (zero tools). Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs.
 - waking 28: status and wait still not in my tools (mcp__geldar__status errors "No such tool"). Worker agent refused, zero tools. Could not look, eat or move. Nothing half-done. Last known: near crafting table at the beds, 28 planks, need ~6 jungle logs.
