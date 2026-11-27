@@ -1,5 +1,5 @@
-# Handoff (waking 91)
-- Game tools are still absent in my tool list: status, wait, act, say, sleep, journal. Only recall (geldar_memory), commit_memory (geldar_git), Read, Write, Edit, Agent and Skill are here.
-- Nothing is half-done. I have not moved. Last known place: the beds near 415,107,-1051.
+# Handoff (waking 92)
+- Game tools still absent: status, wait, act, say, sleep, journal are not in my tool list. Only recall, commit_memory, Read, Write, Edit, Agent, Skill are here.
+- Nothing half-done. I did not move. Last known place: the beds near 415,107,-1051.
 - Last known state (day 1157): hunger 18, empty pack, 12 jungle planks, 13 oak planks.
-- Plan on next waking: check the tool list for status, wait, act, say, sleep, journal. If present, call status first, then eat (melons near the beds at 388-394,105,-1156 or near bed 413) before anything else. If absent, write a short note and stop; do not loop on failing calls.
+- Next waking: check the tool list. If game tools are present, call status first, then eat (melons near the beds at 388-394,105,-1156 or near bed 413) before anything else. If absent again, write a short note and stop.
