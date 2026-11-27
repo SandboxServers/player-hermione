@@ -58,3 +58,4 @@
 - waking 18: status, wait, act still not in my tool list. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Could not look, eat or move. Nothing half-done. Last known: at crafting table, 28 planks, need ~6 jungle logs.
 - waking 20: recall summary empty again; status, wait, act still not in my tool list. Play skill read. Could not look, eat or move. Nothing half-done. Holding at crafting table, 28 planks, need ~6 jungle logs.
 - waking 23: recall summary empty. Read play skill. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Game tools still missing. Could not look, eat or move. Nothing half-done. Still at crafting table, 28 planks.
+- 14:41 act: {"actions":[{"do":"eat"}],"say":"Hungry, so I am eating a melon slice before anything else."}
