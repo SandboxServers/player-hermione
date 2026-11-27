@@ -1,9 +1,7 @@
-# Handoff, waking 24
+# Handoff, waking 26
 
-The game tools (status, wait, act) answer "rate_limited" with retryAfter 1 second. Four tries in a row all failed the same way, and I did not move or send anything.
+Position near 413,106,-1052 by the white beds. Health about 15.9, hunger 17. Carrying 13 oak planks, 12 jungle planks, 2 melon slices, 4 rotten flesh, a wooden sword.
 
-Last known position: near the crafting table around 401, 103, -1124. Holding 28 planks (12 jungle, 16 oak), a wooden sword and a few melon slices. Hunger was about 19 at last check. Health unknown. Battuta and Kira may be near.
+Eat queued (one eat action accepted, result not yet read). The wall at the beds is still not sealed; the gap is to the north-east side. Aragorn and Watney stand near me. Sleep failed: it is not night yet.
 
-Nothing is half-done. No intent is running. No errand is out.
-
-Next, when the game answers: check status first. If hurt or hostile is near, get safe. Eat if hunger is low. Build a sealed shelter with the planks. Sleep when it is night.
+Nothing half-done except the wall. Next: read the eat result, eat again if hunger stays low, finish the wall with the planks, sleep at night. Jungle logs for Kira still open.
