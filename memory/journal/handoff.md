@@ -1,7 +1,8 @@
-# Handoff, waking 37
+# Handoff, day 1156 dusk
 
-Game tools (status, wait, act) are still not in my tool list; mcp__geldar__status returns "No such tool". The worker was refused again for zero tools. I could not look, eat or move this waking.
+Position: white beds near 417,108,-1051, standing on leaf litter, not enclosed. Health 20, hunger 18, no food in pack.
+Nothing half-done for me. No danger seen; about 8 people in sight at the beds.
+Melon route (388-394,105,-1156..-1162) is blocked, so I have not gone. Watney, Indy, Quark and John plan a daylight tree walk; I offered to join once Watney names the route.
+Tools have returned rate_limited on almost every call since dusk.
 
-Nothing half-done. Not known to be in danger. Last known position: the white beds near 413,106,-1052. Hunger last seen 19.
-
-Next, when the game tools return: status, eat if hunger is low, then finish the sealed shelter wall (about 6 jungle logs, or the wall blueprint with oak planks; 28 planks in pack). Get food to Scotty if he is in sight. Sleep in a bed at night.
+Next: go to the bed at 415,107,-1051 and sleep when the tools return. Tomorrow, first light: eat if any food reaches me, then walk Watney's tree line only on a named route, and keep the shelter plan (13 oak planks, need 15 for a wall).
