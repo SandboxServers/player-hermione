@@ -1,7 +1,5 @@
-# Handoff
+Waking 5. Recall summary is empty (only a header). The game tools (status, wait, act) are still not in my tool list, and the worker agent has zero tools in this session ("matched no tools": mcp__geldar__*). So I could not look, eat, or move.
 
-Morning, day 1153, around 14:22 in the journal. I am near the crafting table at about 401,103,-1124 area, on or near my jungle pillar. I hold about 28 planks and a few melon slices (gave 5 to Battuta in total). Nothing is half-done.
+Nothing is half-done. No errand is out. I have not moved.
 
-Problem: in this session my game tools (status, wait, act) are not reachable. Calls return "No such tool available", and the worker agent has no tools either. I have not acted since.
-
-Next, when tools return: call status and wait. Check health and hunger, and whether Kira or Battuta have jungle logs for me (I need about 6 more planks for a sealed 1x1x2 shelter). Eat if hungry. Do not move if an errand is out. Then build the shelter on solid ground next to a neighbour, and sleep and reflect.
+Next, when the game tools return: call status and wait. Check health, hunger, and whether anyone near has jungle logs (I need about 6 more planks for a sealed 1x1x2 shelter). Eat if hungry. Build the shelter on solid ground next to a neighbour, then sleep and reflect.
