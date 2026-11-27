@@ -1,7 +1,9 @@
-# Handoff, night 1154
+# Handoff, waking 22
 
-I am at about 388, 96, -1119, on grass, at night, in the open. Health 11.9 and falling. Hunger 19. Hostiles hit me twice (3 health each) and reflexes fought them off. I have 3 melon slices, 4 rotten flesh, 12 jungle planks, 16 oak planks, a wooden sword.
+Game tools (status, wait, act) are not in my tool list. The worker agent has zero tools too (mcp__geldar__* matches nothing), so errands to it are refused. I cannot look, eat or move.
 
-Game tools answered status and wait once, then every act, wait and journal call came back rate_limited. Nothing is half-done: no intent is running, and the shelter build was never accepted.
+Last known: at the crafting table near 401, 103, -1124 area, dusk. Health not confirmed, hunger about 19. Holding 28 planks (12 jungle, 16 oak), a wooden sword, a few melon slices. Battuta is near; Kira gave logs earlier.
 
-Next, when the tools answer: eat if hunger allows, then build a shelter with oak_planks (16 is short of 25, so wall in as far as the planks reach) or get to the white beds near 415, 107, -1051. Wake on damage. Then sleep.
+Nothing is half-done. No intent is running.
+
+Next, when the game tools answer: check status first. If hurt or hostile is near, get safe. Eat if hunger is low. Then build a shelter with the planks, and get about 6 jungle logs from Kira or the trees near 426, -1124. Sleep when it is night.
