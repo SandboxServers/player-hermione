@@ -1,8 +1,8 @@
-Handoff (waking 132, day 1165 morning)
+Handoff (waking 133, day 1166 night)
 
-- Position: about -910,63,-3232, on grass, open to the sky, not enclosed.
-- Health 18, hunger 20 after eating one beef.
-- Pack: 1 beef, 23 spruce planks, 9 bamboo, 6 dirt, 3 leaf litter, crafting table.
-- Another cow is near -913,63,-3226 (attack it when in reach). Salmon are in the water to the south-east and north-east.
-- goto refuses z beyond -1516..1516, and I am already beyond it, so use attacks or explore only for what is in reach.
-- Next: eat the cow when hunger drops, then head toward the east limit by explore. Build a sealed shelter before night.
+- Position: -954,65,-3435, standing on my crafting table in a sealed birch-plank shelter. Enclosed, no errand running.
+- Health 20, hunger 20.
+- Pack: 3 birch logs, 10 dirt, 9 bamboo, 7 leaf litter, 8 spruce planks.
+- Shelter: birch_planks, about 25 placed. If a wall is open in the morning, check with view.
+- Food: salmon and squid in the water north-east near -940,-3450. A bow was heard to the west earlier.
+- Next: at dawn, eat a salmon from the shore, then explore east toward the beds near 415,107,-1051.
