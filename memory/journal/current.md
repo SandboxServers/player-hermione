@@ -46,3 +46,4 @@
 - 14:21 act: {"actions":[{"do":"note","text":"Morning, day 1153. Gave Battuta 2 melon slices. A sealed 1x1x2 shelter needs about 34 blocks of shell (3x3x4 minus the 2 inside), and I have only 28 planks, so I need 
 - 14:22 act: {"say":"Thank you, Battuta. Kira, thank you for the logs. I have 28 planks and need about 6 more for a sealed shelter, so I'll wait here by the crafting table for your jungle logs.","actions":[]}
 - 14:30 waking 6: game tools (status, wait, act) are not in my tool list, and the worker has no tools (mcp__geldar__* matched nothing). Could not look, eat or move. Nothing half-done. Holding at the crafting table; need ~6 jungle logs for the shelter.
+- waking 7: recalled summary (empty) and journal. Game tools (status, wait, act) still not in my tool list; worker has no game tools either. Could not look, eat or move. Nothing half-done. Waiting by the crafting table.
