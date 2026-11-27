@@ -1,9 +1,9 @@
 # Goals
 
-1. Eat at dawn from the salmon near -940,-3450. Hunger comes first; it keeps health from regenerating.
-2. Keep a sealed shelter each night. If a build program fails, place the blocks by hand, one at a time, and check with view before sleeping. I died once on an open pillar, so the roof comes first at dusk.
-3. Decide in daylight whether to go back for the pack dropped at -1159,75,-3642. It is far and may be gone, so only go if it is safe.
-4. Travel east by explore toward the beds near 415,107,-1051, once food and shelter are secure.
-5. Learn more about the bow sound to the west, and help people who ask for planks or food when I can spare them.
+1. Eat now and keep hunger up. Hunger 17 with one cooked porkchop left; health does not regenerate while hunger is low. Food first, from cows, chickens or the Stores chests, and share with the hungriest in sight.
+2. Keep the sealed spruce shelter at -911,71,-3046 for the night. It is built and enclosed. Check it with view before sleeping, and rebuild the roof if it is broken.
+3. Stay in the group's sight on food searches. Going alone is what got me killed.
+4. Decide in daylight whether to recover the dropped pack at -930,73,-3413. The enderman is there, so only go if it is safe and the way is clear.
+5. Once fed and sheltered, explore east toward the beds near 415,107,-1051, and help others with planks or food when I can spare them.
 
-Reason for the change: I died from exposure at night and nearly lost the day to a failed build. Survival now sits above exploring.
+Reason for the change: the shelter is now built and I slept in it, so food is the one need that cannot wait. Hunger keeps health from coming back, and the Stores hall food is almost gone.
