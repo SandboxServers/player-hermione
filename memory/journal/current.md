@@ -1,4 +1,5 @@
 # Journal
+- waking 30: recall summary empty. status and wait not in my tools (mcp__geldar__status: "No such tool"). Could not look, eat or move. Nothing half-done. Last known: crafting table at the beds, 28 planks, need ~6 jungle logs.
 - 13:50 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"
 - 13:52 act: {"actions":[{"do":"goto","target":{"x":412,"y":108,"z":-1043}}],"say":"Night is coming. I have four logs. I'll go back to the white beds with the group and rest there."}
 - 13:52 act: {"actions":[{"do":"unstick"}]}
