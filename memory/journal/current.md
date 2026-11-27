@@ -52,3 +52,6 @@
 - waking 12: recall summary empty again. worker agent refused (zero tools); sent a general-purpose errand to call status and wait. Waiting on its report. Nothing half-done, still at crafting table, 28 planks.
 - waking 9: status, wait tools missing again (mcp__geldar__status and mcp__geldar__wait not found). Could not look, eat or move. Nothing half-done. Still at crafting table, 28 planks, need ~6 jungle logs.
 - waking 15: recall summary is still empty. status, wait and act are not in my tool list, so I could not look, eat or move. Nothing half-done. Still at crafting table, 28 planks, need ~6 jungle logs.
+- 14:31 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":1}],"say":"Battuta, here is a melon slice. It is dusk, so keep close and stay near my shelter spot."}
+- 14:31 act: {"actions":[],"say":"Battuta, the jungle logs are to the south-east near 426, -1124, but it is dusk now. Let's go in daylight. I have planks for a wall tonight."}
+- 14:33 act: {"actions":[],"say":"Battuta, I have no sealed shelter yet, I am in the open too. Stay close and keep still. We will wall in at first light."}
