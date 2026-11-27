@@ -17,3 +17,12 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - 16:45 act: {"intent":{"goal":"get_out_of_water","program":"travel","arguments":{"target":{"x":-900,"y":64,"z":-3100}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
 - 16:48 act: {"actions":[{"do":"unstick"}],"say":"Still in deep water, air 13. Trying to get free."}
 - 16:48 act: {"intent":{"goal":"reach_dry_land","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_w
+- 17:10 act: {"intent":{"goal":"explore_east_land","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:12 act: {"actions":[{"do":"unstick"}],"reasoning":"In water again at dusk, the explore run got stuck. Get out first."}
+- 17:14 act: {"actions":[{"do":"unstick"}],"reasoning":"Still in water at night with bowmen nearby. Get out again."}
+- 17:16 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Still bobbing in deep water at night. Try to make a dirt step under me, then get free."}
+- 17:21 act: {"intent":{"goal":"gather_spruce_log","program":"gather","arguments":{"block":"spruce_log","count":8},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3039}},{"do":"open","at":{"x":-928,"y":71,"z":-3040}}]}
+- 17:23 say: {"text":"Hello. I lost my things and I am hungry. Is there food in the Stores chest? I will take only what I need."}
+- 17:23 act: {"actions":[{"do":"craft","item":"spruce_planks","count":16},{"do":"craft","item":"crafting_table","count":1}]}
+- 17:23 act: {"intent":{"goal":"gather_spruce_log_more","program":"gather","arguments":{"block":"spruce_log","count":6},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t

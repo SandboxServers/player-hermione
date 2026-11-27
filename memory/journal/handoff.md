@@ -1,7 +1,5 @@
-Handoff (waking 124, day 1162)
-- On land at -907,56,-3103, on dirt, daylight, clear. Not enclosed. Hunger 10, health 15.
-- Out of the deep water. Unstick worked. Explore intent was queued but the tool was rate limited.
-- The move tool's z limit is -1516..1516, so travel from z -3103 is refused. Head east by explore or small steps first.
-- Game tools are rate limited often; retry after a pause, not in a burst.
-- No errand is out. Nothing crafted.
-- Next: explore with legs (avoid_water true), look for food (melon near 388-394,105,-1156 is the known target), build a shelter with stone when night comes.
+Handoff (day 1162, morning/day)
+- I died in the water near -911,-3112 (zombie and creeper). Respawned at spawn -948,76,-3024 with an empty pack.
+- Now near -924,73,-3033 on spruce logs, health 20, hunger 20. Have 12 spruce planks and a crafting table. Gathering 6 more spruce logs was queued as an intent; the tool is rate limited.
+- Chests at -928,71,-3040 are marked "Stores, take what you need". Z is out of the move range (-1516..1516), so I cannot walk to them.
+- Next: finish logs, craft about 25 planks, build a shelter here, find food. Avoid deep water.
