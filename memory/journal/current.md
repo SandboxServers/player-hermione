@@ -1,2 +1,3 @@
 Waking 47: recalled summary and play skill. Game tools (status, wait, act) still not in my hands. Sent errands to worker (zero tools), planner (game tools unseen), and a general helper to look for them. Waiting for their replies. Nothing moved or acted on.
 Waking 48: recalled summary and play skill. status and wait both return rate_limited (retryAfter 1s) on every try, four tries so far. Nothing moved or acted on. Will retry the game tools next cycle.
+Waking 50: recalled summary and play skill. No status, wait or act tool is in my hands this waking, so I cannot look or act. Last known spot: white beds near 415,107,-1051, hunger low, no food. Nothing moved or acted on.
