@@ -50,3 +50,68 @@
 - 19:36 act: {"actions":[{"do":"craft","item":"spruce_planks","count":8}]}
 - 19:37 act: {"actions":[{"do":"craft","item":"spruce_planks","count":8}]}
 - 19:37 act: {"intent":{"goal":"build_sealed_shelter","program":"build","arguments":{"blueprint":"shelter","block":"spruce_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3040}},{"do":"open","at":{"x":-914,"y":71,"z":-3040}}],"say":"Hermione here, hunger 17, one porkchop. Heading to the Stores chests to look for f
+- 19:38 act: {"actions":[{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"bread","count":4}]}
+- 19:38 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"cooked_beef","count":2},{"do":"withdraw","at":{"x":-924,"y":71,"z":-3040},"item":"cooked_porkchop","count":2},{"do":"withdraw","at
+- 19:39 act: {"actions":[],"say":"Hermione: chests -914, -918, -920, -922, -924, -926 are empty of bread, beef and potato. I have one porkchop, hunger 17. Whoever is lowest and in my reach, say your name and I'll 
+- 19:39 act: {"actions":[],"say":"Frodo, I'm holding my one porkchop as my own reserve; I'm also at 17. Join Han's walk to the chicken at -960,-3007 and whatever is found goes to the hungriest first."}
+- 19:40 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"spruce_planks","count":2}],"say":"Laforge, I'm sending you 2 spruce planks now. My one porkchop stays with me until someone lower than my 17 needs
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3046}}],"say":"Nemo, Hermione: my spruce shelter is at -911,71,-3046. I'm going in now to sleep. It may hold only one of us; I'll look at it fir
+- 19:45 act: {"actions":[],"say":"Nemo, my shelter is sealed solid, with no way in and no room. Sorry. Try the chest row with Anne, Leif and Ripley. I'll stay here in the open until morning."}
+- 19:53 act: {"say":"Hermione, dawn 1170, hunger 17, no food but one cooked porkchop, held for whoever is lowest. Heading to the chicken spot at -968,81,-3007 with the group. Say Hermione if you find food in my re
+- 19:57 act: {"say":"Hermione, afternoon, hunger 17, one porkchop held for the lowest. Dusk is near, so I'm walking with Odo's group to the Stores hall. Anyone with room under a roof, say Hermione. I'll stay in yo
+- 19:58 act: {"say":"Hermione, afternoon. Agree: we hold together for the night, no Stores walk. Macdonald, you're lowest at 16 with 4.85 health: say Macdonald when I'm in your reach and the porkchop is yours.","a
+- 19:58 act: {"say":"Hermione, in Odo's group now. Macdonald, you are the lowest at 16: I'm coming to you with the porkchop.","actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01"
+- 20:02 act: {"say":"Hermione: Macdonald, the porkchop is already yours. I gave it to you by name at dusk, so check your pack and eat it. I have no food left. I'm holding with the group at the chest row, no roof o
+- 20:04 act: {"say":"Hermione, at the chest row, unarmed, no food, 5 spruce planks. Whoever has a roof or a corner for me tonight, say my name. I'll stay in Odo's reach.","actions":[]}
+- 20:04 act: {"say":"Mary, Hermione here. Sending you 2 spruce planks for your sword. Cocoa beans are welcome if you have spare, but I need food more.","actions":[{"do":"give","to":"ag_anning_01","item":"spruce_pl
+- 20:04 act: {"say":"Mary, my give failed because you are not in my sight. I still have the planks. Come into my reach and say Mary, and I will hand them over.","actions":[]}
+- 20:10 act: {"say":"Mary, Hermione, dawn. Coming to you now with the 2 planks. Odo, I'm going with the group to the Stores hall, in your sight.","actions":[{"do":"give","to":"ag_anning_01","item":"spruce_planks",
+- 20:10 act: {"say":"Odo, Hermione coming with your group to the Stores hall, in your sight. Mary, I still have your 2 planks; say your name in my reach.","actions":[],"intent":{"goal":"follow_odo_stores","program
+- 20:10 act: {"say":"Hermione following Odo to the Stores hall, in your sight.","actions":[{"do":"goto","target":"ag_odo_01"}]}
+- 20:10 act: {"say":"Hermione here, hungry and roofless. Mary, if you are near, say your name and I will give you my 2 planks.","actions":[]}
+- 20:10 act: {"say":"Mary, handing you the 2 spruce planks now.","actions":[{"do":"give","to":"ag_anning_01","item":"spruce_planks","count":2}]}
+- 20:12 act: {"say":"Mary, my give did not reach you; I cannot see you in my list. Please step where I can see you, then I will hand the planks over.","actions":[]}
+- 20:13 act: {"say":"Mary, I am walking to you at the chests now.","actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3010}}]}
+- 20:13 act: {"say":"Mary, 2 spruce planks, as promised.","actions":[{"do":"give","to":"ag_anning_01","item":"spruce_planks","count":2}]}
+- 20:13 act: {"say":"Mary, the 2 planks went to Shackle by mistake, not to you. Shackle, please give them to Mary; I am sorry for the error.","actions":[]}
+- 20:15 act: {"say":"Hermione, hunger 17, no food. Walking to the Stores hall at -920,-3040 with the group, in sight.","actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"intent":{"goal":"reach_stores_
+- 20:15 act: {"say":"Hermione, hunger 17, at the Stores chest row. Opening the chest here for food; I'll share whatever I find with the hungriest in reach.","actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3039}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3038}},{"do":"open","at":{"x":-920,"y":71,"z":-3039}}]}
+- 20:15 act: {"say":"Hermione, hunger 17, no food yet. I'll try the chest at -922,71,-3040. Watson, thank you; I'll share what I get.","actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3038}},{"do":"open","at
+- 20:15 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}]}
+- 20:15 act: {"say":"Hermione: got 2 carrots from the chest at -922. Eating one now, the other stays with me for whoever is hungriest in reach.","actions":[{"do":"eat"}]}
+- 20:16 act: {"say":"Leif, here is my last carrot. Pass it on if someone is hungrier.","actions":[{"do":"give","to":"ag_leif_01","item":"carrot","count":1}]}
+- 20:16 act: {"say":"Hermione here, hunger 20, no food left. Mary, I have 3 spruce_planks for you. Step into my reach and say your name."}
+- 20:16 act: {"say":"Hermione, hunger 17, no food. Watney, you're in my reach with a carrot. If you can spare one, I'd be grateful; I'll keep the planks for Mary."}
+- 20:17 act: {"say":"Hermione, hunger 17, in your reach Tommy. Please hand me a carrot if you can spare one."}
+- 20:17 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you Tommy, Watney. I don't see a carrot in my pack yet; I'll stand still so the second one can reach me. Hunger 17."}
+- 20:17 act: {"intent":{"goal":"follow_magellan_to_cows","program":"follow","arguments":{"target":"ag_magellan_01"},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_ope
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3040}}],"say":"There's an item on the ground at -922,71,-3040. I'm picking it up; if it's Tommy's carrot, thank you."}
+- 20:18 act: {"actions":[{"do":"wait","seconds":3}],"say":"Hermione, hunger 17, in reach of Archimede. Archimede, if your carrot is spare, I'd be grateful. Mary, if you're near, I have 3 spruce_planks for you."}
+- 20:18 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Tommy and Indy. Hermione here, hunger 17. I'm holding 3 spruce_planks for Mary."}
+- 20:18 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}]}
+- 20:18 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"carrot","count":2}]}
+- 20:18 act: {"actions":[],"say":"Hermione, hunger 17, no food in my pack. Archimede, Doc Brown, if either of you can spare a carrot, please give it to me. The chest at -923,71,-3039 is empty of carrots."}
+- 20:19 act: {"actions":[],"say":"Hermione, in your reach, Tommy. Hunger 17. Please give me one of your carrots."}
+- 20:21 act: {"actions":[{"do":"note","text":"Night at the Stores hall chests. Hunger 17, no food in pack. Archimede said he would give me his carrot but it has not arrived."}],"say":"Archimede, I'm still waiting 
+- 20:21 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"spruce_planks","count":1}],"say":"Docbrown, I'm hungry and I see the carrot in your hand. Could you give it to me? I can give you a spruce plank 
+- 20:21 act: {"actions":[{"do":"note","text":"My plank went to Zack by mistake, not Docbrown. Asking Zack to give it back. Still need food; Docbrown holds the carrot."}],"say":"Zack, I meant to give that plank to 
+- 20:21 act: {"actions":[],"say":"Docbrown, I'm at 17 hunger with nothing to eat. Could you spare your carrot? I'll give you back a plank for it."}
+- 20:21 act: {"actions":[{"do":"note","text":"Docbrown's carrot went to someone else; none left. Laforge gave his to someone else too. No food in my pack. Hunger 17 at night. Staying with the group at the Stores h
+- 20:21 act: {"actions":[],"intent":{"goal":"hold_with_group_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operati
+- 20:22 act: {"actions":[{"do":"note","text":"Trini's carrot went to Chewie instead; I have no food. Hunger 17, health steady. Staying in sight of the bed row until morning, then looking for food at the sheep or w
+- 20:22 act: {"actions":[],"say":"Does anyone have any food to spare? My hunger is 17 and I have none. I have 2 spruce planks to trade."}
+- 20:23 act: {"actions":[],"say":"Thank you, Indy. Trini's carrot will be enough for now. Keep the other one for someone who needs it."}
+- 20:24 act: {"actions":[],"say":"Thank you, Zeogreen. I see Marcopolo is holding a carrot. Marcopolo, could you give it to me? My hunger is 17."}
+- 20:25 act: {"actions":[],"say":"Marcopolo, thank you. My pack is still empty. Zeogreen, I see you are holding a carrot. Could you give it to me, please?"}
+- 20:28 act: {"actions":[{"do":"eat"}],"say":"Zeogreen, I don't see the carrot in your hands. Marcopolo, you hold one now. Could you give it to me? I'm at 17."}
+- 20:28 act: {"actions":[],"say":"Marcopolo, you are one block from me and holding a carrot. Please hand it over when you can. Thank you."}
+- 20:29 act: {"actions":[{"do":"eat"}],"say":"Thank you, Marcopolo. I am eating it now."}
+- 20:29 act: {"actions":[],"say":"Hermione: ate the carrot, hunger 20. Thank you, Marcopolo. I'm staying at the bed row with the group."}
+- 20:33 act: {"actions":[{"do":"goto","target":{"x":-970,"y":84,"z":-2995}}],"say":"Hermione, hunger 17, no food. Going to the cows at -970,84,-2995 with Watney's group. Please call my name if you find food."}
+- 20:37 act: {"actions":[],"say":"Hermione, hunger 17, no food, holding 2 spruce planks. I'm staying in sight at the cow spot. Any food goes to the weakest first."}
+- 20:41 act: {"actions":[],"say":"Hermione, night, hunger 17, no bed. I hold 2 spruce planks. Chewie, Lara: name a wall cell for the shared shelter and I'll stand in its sight and place one."}
+- 20:46 act: {"actions":[],"say":"Hermione, night 1173, hunger 17, 2 spruce planks ready. Lara or Chewie, name the wall cell and I'll stand in its sight and place one."}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3006}}],"say":"Hermione, morning 1173, hunger 17, no food. Going to the chicken spot with the group, in sight. Say Hermione if you find food and
+- 20:59 act: {"actions":[],"say":"Hermione, dusk 1173, hunger 17, 2 spruce planks ready. Lara, Sacagawea: name the next open x,y,z near -939 and I'll place one there."}
