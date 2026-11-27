@@ -20,3 +20,4 @@
 - Waking 73: game tools (status, wait, act) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved. Handoff written.
 - Waking 74: game tools (status, wait, act, say, sleep) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out. Will check again next waking.
 - Waking 75: game tools (status, wait, act) still absent. Tried the worker for a status errand; it has no game tools either (zero tools). Nothing moved, no errand out. Handoff written.
+- Waking 76: game tools (status, wait, act, sleep) still absent; only memory, Agent, Skill, Read, Write, Edit. Could not play. Nothing moved, no errand out. Handoff updated.
