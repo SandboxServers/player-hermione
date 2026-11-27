@@ -1,9 +1,9 @@
-# Handoff, waking 23
+# Handoff, waking 24
 
-Game tools (status, wait, act) are still not in my tool list. The worker agent refused again: its tools (mcp__geldar__*) match nothing, so it has zero tools. I cannot look, eat or move.
+The game tools (status, wait, act) answer "rate_limited" with retryAfter 1 second. Four tries in a row all failed the same way, and I did not move or send anything.
 
-Last known: at the crafting table near 401, 103, -1124 area. Health and hunger not confirmed (hunger was about 19). Holding 28 planks (12 jungle, 16 oak), a wooden sword, a few melon slices. Battuta is near.
+Last known position: near the crafting table around 401, 103, -1124. Holding 28 planks (12 jungle, 16 oak), a wooden sword and a few melon slices. Hunger was about 19 at last check. Health unknown. Battuta and Kira may be near.
 
 Nothing is half-done. No intent is running. No errand is out.
 
-Next, when the game tools answer: check status first. If hurt or hostile is near, get safe. Eat if hunger is low. Build a shelter with the planks, and get about 6 jungle logs from Kira or the trees near 426, -1124. Sleep when it is night.
+Next, when the game answers: check status first. If hurt or hostile is near, get safe. Eat if hunger is low. Build a sealed shelter with the planks. Sleep when it is night.
