@@ -72,3 +72,7 @@
 - 14:50 act: {"actions":[{"do":"eat"}]}
 - waking 35: game tools work now but are rate-limited on every call. Queued one eat (accepted). Status, wait, say all refused as rate_limited. Position last seen 413,106,-1052 at the white beds, hunger 16, health 18.9, holding melon slice, 1 porkchop, 4 rotten flesh, 13 oak and 12 jungle planks. Scotty not in sight. Nothing half-done. Next: retry wait, give melon to Scotty if he comes into sight, then wall a shelter.
 - waking 35, later: a wait got through. Ate porkchop, hunger 16 to 19, health 20, dusk. Still at the beds 413,106,-1052, not enclosed. Tried goto and use on the white bed at 415,107,-1051; refused as rate_limited. Holding; next, reach that bed and sleep, then reflect.
+- 14:51 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, here is my melon slice. Stay near the beds tonight."}
+- 14:51 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1051}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
+- 14:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 14:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
