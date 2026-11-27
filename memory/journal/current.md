@@ -49,4 +49,5 @@
 - waking 7: recalled summary (empty) and journal. Game tools (status, wait, act) still not in my tool list; worker has no game tools either. Could not look, eat or move. Nothing half-done. Waiting by the crafting table.
 - waking 8: status tool missing again (mcp__geldar__status not found); worker errand refused, zero tools. Could not look or move. Nothing half-done. Still by the crafting table, 28 planks, need ~6 jungle logs.
 - waking 10: recall summary still empty. Game tools (status, wait, act) not in my tool list again; cannot look, eat or move. Nothing half-done. Holding at crafting table, 28 planks, need ~6 jungle logs.
+- waking 12: recall summary empty again. worker agent refused (zero tools); sent a general-purpose errand to call status and wait. Waiting on its report. Nothing half-done, still at crafting table, 28 planks.
 - waking 9: status, wait tools missing again (mcp__geldar__status and mcp__geldar__wait not found). Could not look, eat or move. Nothing half-done. Still at crafting table, 28 planks, need ~6 jungle logs.
