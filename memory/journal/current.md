@@ -76,3 +76,4 @@
 - 14:51 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1051}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
 - 14:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
 - 14:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- waking 37: recall summary empty. status and wait not in my tools (mcp__geldar__status: No such tool); worker spawn refused, zero tools. Could not look, eat or move. Nothing half-done. Last known: white beds near 413,106,-1052, 28 planks, need ~6 jungle logs, Scotty not in sight.
