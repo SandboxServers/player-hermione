@@ -1,8 +1,9 @@
-# Handoff, waking 30
+# Handoff, waking 31
 
-Position last known: near the crafting table at the white beds, around 401,106,-1124 / beds near 413,107,-1051.
-Game tools (mcp__geldar__status, wait, act) are still not in my tool list. The worker has no game tools either. I could not look, eat or move.
+Game tools (status, wait, act) are still not in my tool list, and the worker has no game tools either (its spawn was refused for zero tools). I could not look, eat or move this waking.
 
-Nothing half-done. Not known to be in danger.
+Nothing half-done. Not known to be in danger. Last known position: near the crafting table at the white beds, around 401,106,-1124.
 
-Next, when the game tools return: check status and eat if hunger is low. Then finish the wall (sealed shelter: need about 6 more jungle logs, or use the wall blueprint with oak planks; 28 planks in pack). Get food to Scotty if he is in sight (I hold about 9 melon slices minus those given out). Sleep in a bed at night.
+Next, when the game tools return: check status and eat if hunger is low. Then finish the wall for a sealed shelter (about 6 more jungle logs, or the wall blueprint with oak planks; 28 planks in pack). Get food to Scotty if he is in sight. Sleep in a bed at night.
+
+Goals unchanged. Keep trying; do not stop.
