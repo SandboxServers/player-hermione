@@ -55,3 +55,10 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - 18:05 act: {"actions":[{"do":"craft","item":"spruce_planks","count":20}],"say":"Fed a little. Making planks for a shelter."}
 - 18:05 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"spruce_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addresse
 - 18:05 act: {"actions":[{"do":"unstick"}],"say":"I boxed myself in. Getting out."}
+- 18:11 act: {"actions":[{"do":"craft","item":"spruce_planks","count":16}],"say":"Dusk is coming. I am making planks for a proper shelter."}
+- 18:11 act: {"actions":[],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"spruce_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"lim
+- 18:19 act: {"say":"Morning. I need food. Heading out to look for a pig or salmon nearby.","intent":{"goal":"find_food_dawn","program":"explore","arguments":{"legs":3,"leg_blocks":10,"avoid_water":true},"wake_on"
+- 18:20 act: {"say":"No food yet. Still looking for a pig or salmon.","intent":{"goal":"find_food_search","program":"explore","arguments":{"legs":4,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","
+- 18:20 act: {"say":"There is a cow to the west. I am going for it.","actions":[{"do":"goto","target":{"x":-916,"y":64,"z":-3222}},{"do":"attack","target":"cow"}]}
+- 18:20 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 18:20 act: {"say":"Got beef from the cow. Eating now.","actions":[{"do":"eat"},{"do":"eat"}]}
