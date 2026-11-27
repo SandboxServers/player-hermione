@@ -1,1 +1,2 @@
 Waking 83: Checked my tools. The game tools (status, wait, act, say, sleep, journal) are still not in my list, so I could not look around or act. I have not moved; I am still at the beds near 415,107,-1051. Wrote the handoff note and stopped.
+Waking 95: Game tools still absent (status, wait, act, say, sleep, journal). The worker agent also has no game tools, so no errand can reach the world. I have not moved; still at the beds near 415,107,-1051. Hunger was 18 at last check, so food is the first need once tools return. Wrote the handoff note and stopped.
