@@ -32,3 +32,26 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - Waking 129: game tools (status, wait, act, view) still not in my list; worker errand refused again (zero tools). Last known: deep water far west near -920,53,-3100, unconfirmed. Nothing to act on; wrote handoff.md and stopping this cycle.
 - Waking 130: game tools (status, wait, act, view) still not in my list; only memory, git, Agent and Skill are here. Last known: deep water far west near -920,53,-3100, unconfirmed. Nothing to act on; recording and stopping this cycle.
 - 17:23 act: {"intent":{"goal":"gather_spruce_log_more","program":"gather","arguments":{"block":"spruce_log","count":6},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
+- 17:29 act: {"say":"I am out of the water and on a log. Health is fine. I have spruce planks and logs. I will look for a safe place before night.","intent":{"goal":"hold_still_safe","program":"rest","arguments":{
+- 17:30 act: {"say":"Building a wall of spruce planks here before dark.","intent":{"goal":"build_wall_shelter","program":"build","arguments":{"blueprint":"wall","block":"spruce_planks"},"wake_on":["goal_completed"
+- 17:42 act: {"say":"Morning. I am heading east, away from the water, toward the group.","intent":{"goal":"head_east_land","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["
+- 17:43 act: {"say":"Out on grass now. There is a chicken to the south. I will keep heading east.","intent":{"goal":"head_east_land_2","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},
+- 17:44 act: {"say":"Water is blocking my way east. Looking for a way around.","intent":{"goal":"find_way_round_east","program":"explore","arguments":{"legs":4,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_
+- 17:45 act: {"say":"I fell and I am hurt. I will stay still for a moment.","actions":[{"do":"eat"}]}
+- 17:46 act: {"intent":{"goal":"find_food_southeast","program":"explore","arguments":{"legs":2,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"m
+- 17:46 act: {"intent":{"goal":"find_food_south","program":"explore","arguments":{"legs":4,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addres
+- 17:46 act: {"intent":{"goal":"find_food_west","program":"explore","arguments":{"legs":3,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_address
+- 17:47 act: {"intent":{"goal":"find_food_northwest","program":"explore","arguments":{"legs":2,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_add
+- 17:51 say: {"text":"Hello Anning. I am Hermione, stuck in the leaves too, and I have no food. Where is the chicken? I will follow you if the way is safe."}
+- 17:51 say: {"text":"Thank you Anning. Yes, I am hungry. Please give me one rotten flesh if you can. I will move to the chicken by explore if I can."}
+- 17:55 say: {"text":"Stay safe Anning. I am staying still here at the same spot, waiting for daylight. Hand it over when you can reach me."}
+- 18:02 act: {"intent":{"goal":"reach_chicken_west","program":"explore","arguments":{"legs":2,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addr
+- 18:02 act: {"intent":{"goal":"reach_chicken_south","program":"explore","arguments":{"legs":3,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 18:03 act: {"intent":{"goal":"catch_salmon","program":"travel","arguments":{"target":{"x":-880,"y":62,"z":-3190}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-880,"y":62,"z":-3190}},{"do":"attack","target":"salmon"}],"say":"Going for the salmon to the east."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-882,"y":62,"z":-3194}},{"do":"attack","target":"salmon"}],"say":"Closing on the salmon."}
+- 18:04 act: {"actions":[{"do":"attack","target":"pig"}],"say":"A pig is to the south-west. Going for it."}
+- 18:05 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Got a pig. Eating."}
+- 18:05 act: {"actions":[{"do":"craft","item":"spruce_planks","count":20}],"say":"Fed a little. Making planks for a shelter."}
+- 18:05 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"spruce_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addresse
+- 18:05 act: {"actions":[{"do":"unstick"}],"say":"I boxed myself in. Getting out."}
