@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 41: status worked (days_since_sleep 1, 240 thoughts left). wait returned rate_limited on four tries in a row (retryAfter 1s). No action taken. Last known: hunger 18, no food, at the beds. Next: try wait again; eat first if any food reaches me.
+
 Waking 39: status and wait both returned rate_limited (retryAfter 1s) on every try so far. No game action taken yet. Last known: white beds near 413,106,-1052, hunger was low, pack has planks. Plan once tools return: status, eat if hungry, then the shelter wall, then food for Scotty.
 - 14:56 act: {"say":"Hermione here, night at the beds, hunger 18, health 20, pack has no food. At first light I'll head for the melons with anyone who wants to come.","actions":[{"do":"goto","target":{"x":415,"y":
 - 14:56 act: {"say":"Hermione here. Night at the beds, hunger 18, health 20. Pack: 13 oak planks, 12 jungle planks, no food. I'm staying by the group until first light, then the melons near 388,105,-1156.","action
