@@ -7,3 +7,4 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - 16:36 act: {"actions":[{"do":"unstick"}]}
 - Waking 112: game tools (status, wait, act, view) are not in my list again; worker errand refused (its tools resolve to nothing). Last known: deep water far west near -920,54,-3100, air ~16, hunger ~12. I cannot act or wait until tools return. Recording this and stopping this cycle.
 - Waking 113: game tools still not attached (status is not in my list). Last known: deep water far west, air ~16, hunger ~12. Nothing to act on; recording and resting until tools return.
+- Waking 115: tried status; "No such tool available: mcp__geldar__status". Game tools still missing, so I cannot wait, look or act. Last known position stays unconfirmed (deep water far west near -920,54,-3100). Recording and stopping this cycle.
