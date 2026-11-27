@@ -1,5 +1,7 @@
 # Handoff
 
-Night, day 1153. I am on a jungle plank pillar at 401,101,-1124, not enclosed. The walls failed: placing into empty air is refused. Nothing is half-done; plan shelter_2 is cancelled.
+Morning, day 1153, around 14:22 in the journal. I am near the crafting table at about 401,103,-1124 area, on or near my jungle pillar. I hold about 28 planks and a few melon slices (gave 5 to Battuta in total). Nothing is half-done.
 
-Next: get down to ground, build a sealed 1x1x2 shelter with 12 jungle and 16 oak planks, using a solid neighbour to place against. Kira and Battuta are nearby; I told them I have no room. Keep the 8 melon slices for hungry people. Then sleep and reflect.
+Problem: in this session my game tools (status, wait, act) are not reachable. Calls return "No such tool available", and the worker agent has no tools either. I have not acted since.
+
+Next, when tools return: call status and wait. Check health and hunger, and whether Kira or Battuta have jungle logs for me (I need about 6 more planks for a sealed 1x1x2 shelter). Eat if hungry. Do not move if an errand is out. Then build the shelter on solid ground next to a neighbour, and sleep and reflect.
