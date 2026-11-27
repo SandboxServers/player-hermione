@@ -4,3 +4,43 @@
 - 13:52 act: {"actions":[{"do":"unstick"}]}
 - 13:52 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":412,"y":108,"z":-1043}}]}
 - 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"I'm at the white bed now, with the group. I'll sleep here."}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night, and a pillager is 7 blocks north with a crossbow. I'm going to the white bed
+- 13:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 13:54 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"A zombie is on me from the west. I have only logs, so I'm fighting it here."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1057}}],"say":"Pillager is shooting from the south and I have no weapon. Running east."}
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1062}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_sword","count":1}],"say":"It's light. I'm unarmed, so I'm going
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1061}},{"do":"craft","item":"oak_planks","count":8}],"say":"It's dark and I'm still unarmed. I'm making planks at the table to craft a sword."}
+- 13:57 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":"Planks are done. Making a wooden sword now."}
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1052}}],"say":"I have a wooden sword now. I'm going to the beds to find a safe place for the rest of the night."}
+- 13:57 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Pillager to the north-west with a crossbow. I'm trying the bed here."}
+- 13:58 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie coming from the north-east. I have a sword, I'll fight it."}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1052}}],"say":"Pillager is closing from the north-east. I'm moving west out of its line."}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1054}}],"say":"Something is hitting me from out of sight. I'm going further west."}
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1058}}],"say":"Hermione here, armed with a wooden sword and no real food. I'll join the group north for logs and food, staying clear of the pill
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1080}}],"say":"Hermione, armed with a wooden sword and 2 rotten flesh. Going north with the group for logs and food, and keeping out of the pill
+- 14:03 act: {"actions":[],"say":"Picard, yes, walk with us in sight. We wait here at x410 z-1079 for the group. I have only one spare piece of rotten flesh, and I will share it if we find no other food."}
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":389,"y":105,"z":-1150}}],"say":"Hermione: we go north-west to the melons at 389,105,-1156 together. Stay in sight, keep behind the armed ones, and I will share m
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":392,"y":105,"z":-1161}},{"do":"break","at":{"x":394,"y":105,"z":-1160}},{"do":"break","at":{"x":390,"y":105,"z":-1162}}],"say":"Hermione: I'm at the melons. Kira
+- 14:04 act: {"actions":[{"do":"eat"},{"do":"break","at":{"x":390,"y":105,"z":-1156}},{"do":"break","at":{"x":388,"y":105,"z":-1157}}],"say":"Hermione: I got three melon slices. I ate one. More melons are at 388-3
+- 14:04 act: {"actions":[{"do":"eat"}],"say":"Hermione: I have 9 melon slices now. Ripley, Tanya, Picard, Crusoe, come to me and I will hand you some. Kira, thank you."}
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":399,"y":107,"z":-1151}},{"do":"break","at":{"x":401,"y":107,"z":-1150}},{"do":"break","at":{"x":401,"y":108,"z":-1150}},{"do":"break","at":{"x":401,"y":106,"z":-
+- 14:05 act: {"actions":[{"do":"craft","item":"jungle_planks","count":12},{"do":"craft","item":"oak_planks","count":12}],"say":"Hermione: I have logs now and I'm turning them into planks for a shelter. Melons stil
+- 14:05 act: {"actions":[{"do":"break","at":{"x":401,"y":109,"z":-1150}}],"say":"Planks are done: 12 jungle, 16 oak. I need about 9 more of one kind for a 25-block shelter, so I'm getting more logs."}
+- 14:05 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"break","at":{"x":401,"y":110,"z":-1150}}]}
+- 14:05 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"break","at":{"x":401,"y":111,"z":-1150}}]}
+- 14:05 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"goto","target":"ag_samwise_01"}],"say":"Samwise, I have 9 melon slices. Tell me where Scotty and Tommy are and I'll bring them."}
+- 14:05 act: {"actions":[],"say":"Samwise, Kira, where are Scotty and Tommy? I'm holding 9 melon slices and will hand them out."}
+- 14:06 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":1}],"say":"Battuta, one melon slice coming to you. Keep the flint. Samwise, I'll take the rest to Scotty."}
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":401,"y":106,"z":-1150}}],"say":"Kira, Battuta, I'm one plank short of a 25-block shelter. Going back to the jungle trees for one more log."}
+- 14:06 act: {"actions":[],"say":"No jungle logs left in sight here. Anyone with one log to spare, I'll trade a melon slice for it. Scotty, if you're near, say so and I'll bring melon."}
+- 14:07 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"Kira, I see you beside me. I have no jungle log yet. Please give it to me if you still can."}
+- 14:08 act: {"actions":[{"do":"plan","op":"add","plan_id":"shelter_1","origin":"here","palette":{"w":{"block":"jungle_planks"}},"steps":[{"op":"hollow_box","from":{"x":-1,"y":0,"z":-1},"to":{"x":1,"y":1,"z":1},"p
+- 14:08 act: {"actions":[{"do":"plan","op":"cancel","plan_id":"all"}]}
+- 14:08 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":401,"y":103,"z":-1124}}]}
+- 14:11 act: {"actions":[{"do":"plan","op":"add","plan_id":"shelter_2","origin":"here","palette":{"w":{"block":"jungle_planks"},"o":{"block":"oak_planks"}},"steps":[{"op":"list","pal":"w","cells":[{"x":-1,"y":0,"z
+- 14:12 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":400,"y":101,"z":-1124}},{"do":"place","block":"oak_planks","at":{"x":402,"y":101,"z":-1124}},{"do":"place","block":"oak_planks","at":{"x":401,"
+- 14:12 say: {"text":"Battuta, Kira: I have no room. My spot is one cell on a pillar and the walls will not place from the air. Build your own with your planks, and share the melon between you."}
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":97,"z":-1121}}],"intent":{"goal":"descend_and_find_logs","program":"travel","arguments":{"target":{"x":401,"y":97,"z":-1121}},"wake_on":["goal_completed"
+- 14:20 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":2}],"say":"Battuta, here are two melon slices. Thank you for sharing yours last night. Let's look for logs together in daylig
+- 14:21 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":2}],"say":"Battuta, here are two melon slices. Morning now, so I will wall myself in on this ground next to the crafting tabl
+- 14:21 act: {"actions":[{"do":"note","text":"Morning, day 1153. Gave Battuta 2 melon slices. A sealed 1x1x2 shelter needs about 34 blocks of shell (3x3x4 minus the 2 inside), and I have only 28 planks, so I need 

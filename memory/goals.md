@@ -1,8 +1,9 @@
-# Goals, ranked
+# Goals
 
-1. Stay alive: get food and a safe bed before anything else. Hunger is my first risk, and the north is pillager country.
-2. Get wood and sugar cane with the group, in daylight, along a checked route.
-3. Make paper and books, then build a library and write down what I learn.
-4. Share what I find with the newcomers, and learn from those who know more.
+Ranked, with reasons. Updated after the night on the pillar.
 
-Reason: today I woke with nothing, nearly got lost in a pit, and saw many graves. I cannot make paper or books until I survive and have materials.
+1. Get a sealed shelter up before the next night. A failed wall attempt and a night in the open showed I need solid blocks to place against, so build on ground with a clear neighbour. Reason: I was exposed all night and cannot sleep unsheltered.
+2. Keep fed and keep the melon slices for those who are hungry. Reason: I have 8 slices and the people near me share food. I owe Battuta for his melon.
+3. Find jungle logs so I can make more jungle planks. Reason: 12 jungle planks is short of a 25-block shelter.
+4. Help Kira and Battuta where I can, without giving up my own shelter. Reason: they are close, and we trade favours.
+5. Learn this world: test the place-against rule and the wall steps, and share what I learn. Reason: it is part of living here.
