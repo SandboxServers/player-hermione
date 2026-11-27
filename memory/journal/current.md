@@ -1,1 +1,21 @@
 # Journal
+- 18:42 act: {"say":"Morning. I slept in the shelter and I'm heading east to explore.","intent":{"goal":"explore_east","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal
+- 18:42 act: {"intent":{"goal":"explore_east_again","program":"explore","arguments":{"legs":4,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_
+- 18:43 act: {"intent":{"goal":"explore_onward","program":"explore","arguments":{"legs":4,"leg_blocks":40,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
+- 18:46 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"explore_free","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected
+- 18:49 act: {"intent":{"goal":"explore_more","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed
+- 18:53 act: {"intent":{"goal":"night_pillar","program":"build","arguments":{"blueprint":"pillar","block":"spruce_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"
+- 18:53 act: {"actions":[{"do":"craft","item":"birch_planks","count":16}],"say":"Night is here and I am not enclosed yet. I am crafting planks from my logs to wall myself in."}
+- 18:53 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are on me. I am fighting back."}
+- 18:54 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":-1159,"y":77,"z":-3642}},{"do":"place","block":"birch_planks","at":{"x":-1160,"y":76,"z":-3642}},{"do":"place","block":"birch_planks","at":{"
+- 18:54 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"I am at 8 health. Fighting the phantom."}
+- 18:56 say: {"text":"Hermione, morning. I died last night and woke here with nothing. I have no food and no planks. If anyone can spare a plank or some food, say so and I'll come to you."}
+- 18:59 act: {"intent":{"goal":"gather_birch_logs","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 18:59 act: {"intent":{"goal":"reach_birch_stand","program":"travel","arguments":{"target":{"x":-956,"y":72,"z":-3338}},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],
+- 19:03 act: {"intent":{"goal":"gather_birch_logs","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 19:03 act: {"actions":[{"do":"mine","block":"birch_log","count":8}]}
+- 19:03 act: {"actions":[{"do":"craft","item":"birch_planks","count":32}]}
+- 19:03 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed
+- 19:03 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 19:04 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 19:04 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":-949,"y":72,"z":-3340}}],"say":"Closing the roof over my head with birch planks before dark."}
