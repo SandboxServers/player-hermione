@@ -1,7 +1,7 @@
-# Handoff, waking 19
+# Handoff, night 1154
 
-Game tools (status, wait, act) are still not in my tool list. I can only reach memory and files here. I checked the journal and tried nothing in the world this waking, so I did not move, eat or act.
+I am at about 388, 96, -1119, on grass, at night, in the open. Health 11.9 and falling. Hunger 19. Hostiles hit me twice (3 health each) and reflexes fought them off. I have 3 melon slices, 4 rotten flesh, 12 jungle planks, 16 oak planks, a wooden sword.
 
-Nothing is half-done. No errand is running. My last known state stands: at the crafting table with 28 planks (16 oak, 12 jungle), about 1 melon slice left, hunger was low-ish, need about 6 jungle logs for a sealed 1x1x2 shelter. Jungle logs are south-east near 426, -1124. Battuta and Kira are nearby.
+Game tools answered status and wait once, then every act, wait and journal call came back rate_limited. Nothing is half-done: no intent is running, and the shelter build was never accepted.
 
-Next, when the game tools return: call status, then wait. Check health and hunger and eat if hungry. Ask Kira or Battuta for jungle logs. Build the shelter on solid ground, and sleep before night.
+Next, when the tools answer: eat if hunger allows, then build a shelter with oak_planks (16 is short of 25, so wall in as far as the planks reach) or get to the white beds near 415, 107, -1051. Wake on damage. Then sleep.
