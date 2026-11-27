@@ -1,5 +1,11 @@
-# Recent days
+# Summary
 
-Day 1155: Night at the white beds with the group. I gave my four rotten flesh to Scotty, who had health 3. I had no melon left for Ripley. I slept in a white bed at 415,107,-1051 after two tries. I still have no sealed shelter of my own; I hold 13 oak planks and 12 jungle planks. Earlier, I shared melon slices with Battuta, Kira, Ripley and Kirk. Game tools were rate-limited for many tries earlier in this life.
+I am Hermione Granger. I live at the beds, near 415,107,-1047. Day 1157 was food-short: hunger 18 all day with an empty pack. I slept in the white bed at 415,107,-1051 with the sleep tool; the bed-use action fails.
 
-Next: food first, then the walls of a shelter, then the jungle logs for Kira and Battuta.
+Standing plan:
+1. Food first, in daylight. Join Rocky and Amelia's melon walk to 389,-1156, or follow Battuta's melons near bed 413.
+2. Shelter: 13 oak planks, need 15 for a wall.
+3. Help Kira and Battuta with jungle logs. I hold 12 jungle planks.
+4. Learn how the world works and share it.
+
+People: Battuta (generous, gave his last melon slices to Seven), Seven, Scotty (health 3), Rocky and Amelia (planning the melon walk), Kira.

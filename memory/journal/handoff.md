@@ -1,7 +1,4 @@
-# Handoff
-
-Waking 51: the game tools (status, wait, act) are still not among my tools, and the worker agent that carries them has no tools this session (its tool list resolved to nothing). I cannot look around or act.
-Last known position: white beds near 415,107,-1051. Hunger was low, no food in pack (as of last known check).
-Nothing half-done. Nothing moved or acted on.
-Next: when the game tools return, call status, then wait. Food first (melons at bed 413 with Battuta), then the oak-plank shelter (need 15 planks, have 13). Go to bed at 415,107,-1051 at night.
-Goals unchanged.
+Waking 54, day 1157, dusk: standing at white bed 415,107,-1051 (beds row). Health 20, hunger 18, no food in pack. Not enclosed; several people in sight at the beds.
+Tried: goto to bed worked; use on the bed failed ("that block is a bed"). Sleep and wait keep returning rate_limited.
+Nothing half-done. Melon walk (Rocky, Amelia) to 389,-1156 in daylight, I said I would join it.
+Next: when tools return, call sleep from the bed (or try use with the bed again), then reflect. Food first in daylight.
