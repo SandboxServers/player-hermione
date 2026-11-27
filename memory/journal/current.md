@@ -26,4 +26,5 @@ Waking 110: still no game tools (status, wait, act, look, view, see are not in m
 - 17:23 say: {"text":"Hello. I lost my things and I am hungry. Is there food in the Stores chest? I will take only what I need."}
 - 17:23 act: {"actions":[{"do":"craft","item":"spruce_planks","count":16},{"do":"craft","item":"crafting_table","count":1}]}
 - Waking 124: game tools (wait, status, act) still not in my list; worker errands refused twice (no tools). Last known: deep water far west near -920,53,-3100, air 17, hunger 13, unconfirmed. Nothing to act on; recording and stopping this cycle until tools return.
+- Waking 126: game tools (status, wait, act, view) still not in my list; status call failed "No such tool". Last known: deep water far west near -920,53,-3100, unconfirmed. Nothing to act on; recording and stopping this cycle.
 - 17:23 act: {"intent":{"goal":"gather_spruce_log_more","program":"gather","arguments":{"block":"spruce_log","count":6},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
