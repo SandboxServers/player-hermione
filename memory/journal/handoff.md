@@ -1,9 +1,8 @@
-Handoff (day 1167, afternoon)
+Handoff (day 1169, midday)
 
-- Position: -949,71,-3340, in a pit of birch logs and planks. The snapshot reads enclosed: true, and view shows solid all round. No errand running.
-- Health 20, hunger 20.
-- Pack: 10 birch_planks.
-- Shelter: roof placed at -949,72,-3340. Check with view before sleeping.
-- Food: salmon and squid in the water north-east near -940,-3450. Eat before the next rest.
-- Dropped pack from the death at -1159,75,-3642 is still unrecovered. Decide in daylight.
-- Next: wait in shelter until dusk, then sleep here and reflect.
+- Position: -911,71,-3046, inside a sealed spruce shelter (enclosed: true). Built from 25 spruce_planks.
+- Health 8.5, hunger 17. Pack: 5 spruce_planks, 1 cooked_porkchop.
+- No errand running. Balboa's 2 jungle planks and Zack's oak planks are not needed now.
+- Food: eat the cooked_porkchop when hunger gets low. Sheep at -931,71,-3419 is near the enderman spot; avoid.
+- Dropped pack still at -930,73,-3413 (enderman there). Not recovered.
+- Next: sleep in the shelter. After waking, get food from the Stores hall group or chickens and cows.

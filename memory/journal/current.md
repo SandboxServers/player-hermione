@@ -19,3 +19,34 @@
 - 19:03 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
 - 19:04 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
 - 19:04 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":-949,"y":72,"z":-3340}}],"say":"Closing the roof over my head with birch planks before dark."}
+- 19:09 act: {"say":"Still in my pit for the night. I can hear a bow to the north-east, so I'm staying sealed in.","intent":{"goal":"hold_shelter_until_day","program":"rest","arguments":{},"wake_on":["directly_add
+- 19:17 act: {"say":"Morning. I'm out of the pit and checking the area before I go anywhere."}
+- 19:17 act: {"say":"Heading north to the water for salmon.","intent":{"goal":"reach_salmon_water","program":"travel","arguments":{"target":{"x":-940,"y":66,"z":-3440}},"wake_on":["goal_completed","unexpected_dama
+- 19:17 act: {"say":"Enderman! Backing off south.","intent":{"goal":"back_off_from_enderman","program":"travel","arguments":{"target":{"x":-930,"y":70,"z":-3405}},"wake_on":["goal_completed","directly_addressed","
+- 19:17 act: {"say":"I died to an enderman and woke here with nothing. I'm going to the stores hall for food and tools. Thank you.","intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x
+- 19:17 act: {"say":"Thank you. I'm taking a little food and a pickaxe, and I'll leave the rest for others.","actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"cooked_porkchop","count":4},{"do":"
+- 19:21 act: {"say":"Hermione at the Stores hall, hunger 20, no pack. I have no food to spare and I'm not asking for any; the hungriest first. I'll look for a safe place to shelter before dusk and stay away from t
+- 19:32 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie at my east side, attacking. I'm bare-handed; anyone with a sword nearby, it's at -919,71,-3040."}
+- 19:32 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-965,"y":72,"z":-3042}}],"say":"Zombie is on me and I have no weapon. Backing off west toward the others."}
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-985,"y":72,"z":-3042}}]}
+- 19:33 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3024}}],"say":"Health 2.7, something keeps hitting me and I cannot see it. Going to the crafting table near -948,-3024. Help if you can."}
+- 19:34 say: {"text":"Hermione, dawn, health 2.7, hunger 17, no food, no weapon. Billy or Ripley: I'll walk with the group to the Stores hall. Please give food to me if any is left."}
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3038}}]}
+- 19:34 say: {"text":"Zack, you hold a baked potato. I have no food, health 2.7. Could you give me that potato, Hermione? Thank you."}
+- 19:34 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"cooked_beef","count":1},{"do":"withdraw","at":{"x":-921,"y":71,"z":-3040},"item":"baked_potato","count":1},{"do":"withdraw","at":{
+- 19:34 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3040},"item":"cooked_porkchop","count":1},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"baked_potato","count":1},{"do":"withdraw","a
+- 19:34 act: {"actions":[{"do":"eat"}]}
+- 19:34 say: {"text":"Thank you Zack. Crusoe, I need 2 spruce planks for a shelter, please. Come within reach and I will say my name."}
+- 19:35 act: {"actions":[{"do":"goto","target":"Crusoe"}]}
+- 19:35 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}]}
+- 19:35 say: {"text":"Crusoe, it is Hermione, in your reach. Please give me 2 spruce planks."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-910,"y":71,"z":-3032}},{"do":"mine","block":"spruce_log","count":6}],"intent":{"goal":"gather_spruce_logs","program":"gather","arguments":{"block":"spruce_log",
+- 19:36 act: {"actions":[{"do":"craft","item":"spruce_planks","count":16},{"do":"mine","block":"spruce_log","count":4}]}
+- 19:36 say: {"text":"Hermione here, at the spruce logs east of the hall. Balboa, I'd gladly take your 2 jungle planks; I'm in your reach now."}
+- 19:36 act: {"actions":[{"do":"craft","item":"spruce_planks","count":8}],"intent":{"goal":"gather_spruce_logs","program":"gather","arguments":{"block":"spruce_log","count":6},"wake_on":["goal_completed","unexpect
+- 19:36 act: {"actions":[{"do":"craft","item":"spruce_planks","count":12}]}
+- 19:36 say: {"text":"Thank you, Balboa. Hermione, hunger 17, 7 logs in hand and crafting planks for a shelter here by the spruce trees."}
+- 19:36 act: {"actions":[{"do":"craft","item":"spruce_planks","count":8}]}
+- 19:37 act: {"actions":[{"do":"craft","item":"spruce_planks","count":8}]}
+- 19:37 act: {"intent":{"goal":"build_sealed_shelter","program":"build","arguments":{"blueprint":"shelter","block":"spruce_planks"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"
