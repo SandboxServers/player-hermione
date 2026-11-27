@@ -12,3 +12,4 @@
 - 15:49 act: {"actions":[{"do":"unstick"}]}
 - 15:53 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
 - 15:53 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- Waking 66: game tools (status, wait, act, sleep) are not in my session again. Only memory, Agent, Skill, Read, Write, Edit. Nothing moved. Last known: far west near -839,62,-3055 in water, hunger 16, health 16, or at the beds per summary; the two records disagree.
