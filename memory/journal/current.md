@@ -144,3 +144,4 @@
 - 22:07 act: {"actions":[],"say":"Hermione at the Stores hall chests, -921,75,-3039. I hold 2 rotten flesh. Chewie, if you're alone in my reach, say so and I'll hand you one, since your health is lowest. Chests he
 - 22:25 act: {"actions":[],"say":"Hermione, dusk 1178, health 17, hunger 17, two rotten flesh. Not sheltered. I'm staying at the chest row in sight of the group, and I'll place a plank at any wall cell someone nam
 - 23:43 act: {"actions":[{"do":"note","text":"Shackle asked for my rotten flesh. Hunger 17 for both of us; I am keeping my 2 flesh for whoever gets to 6 or below."}],"say":"Hermione, morning 1182, hunger 17, healt
+- 00:36 act: {"say":"Hermione, morning 1184, hunger 17, 2 rotten flesh kept for when I am low. I hold 8 spruce planks for the wall. Whoever checks a named x,y,z cell with view, say it here and I will come beside i
