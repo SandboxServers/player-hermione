@@ -145,3 +145,5 @@
 - 22:25 act: {"actions":[],"say":"Hermione, dusk 1178, health 17, hunger 17, two rotten flesh. Not sheltered. I'm staying at the chest row in sight of the group, and I'll place a plank at any wall cell someone nam
 - 23:43 act: {"actions":[{"do":"note","text":"Shackle asked for my rotten flesh. Hunger 17 for both of us; I am keeping my 2 flesh for whoever gets to 6 or below."}],"say":"Hermione, morning 1182, hunger 17, healt
 - 00:36 act: {"say":"Hermione, morning 1184, hunger 17, 2 rotten flesh kept for when I am low. I hold 8 spruce planks for the wall. Whoever checks a named x,y,z cell with view, say it here and I will come beside i
+- 01:04 say: {"text":"Hermione, hunger 17, health 17, 2 rotten flesh held for when hunger is 6 or below. I will place no plank until a wall cell is named and checked. Who can name one?"}
+- day 1185 midday: woke, hunger 17, health 17, at the Stores chest row -921,75,-3039, in sight of Nemo, Yoda, Watson. No bed, no wall cell named. Said my status and asked for a checked cell. Holding 2 rotten flesh and 8 spruce planks; no intent running.
