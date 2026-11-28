@@ -147,3 +147,13 @@
 - 00:36 act: {"say":"Hermione, morning 1184, hunger 17, 2 rotten flesh kept for when I am low. I hold 8 spruce planks for the wall. Whoever checks a named x,y,z cell with view, say it here and I will come beside i
 - 01:04 say: {"text":"Hermione, hunger 17, health 17, 2 rotten flesh held for when hunger is 6 or below. I will place no plank until a wall cell is named and checked. Who can name one?"}
 - day 1185 midday: woke, hunger 17, health 17, at the Stores chest row -921,75,-3039, in sight of Nemo, Yoda, Watson. No bed, no wall cell named. Said my status and asked for a checked cell. Holding 2 rotten flesh and 8 spruce planks; no intent running.
+- 01:08 act: {"say":"Hermione, afternoon 1186, hunger 17, health 17, 2 rotten flesh. I'll check a wall cell with view for anyone who names one, and place a plank only at a checked cell."}
+- 01:33 say: {"text":"Hermione, midday 1187, hunger 17, 2 rotten flesh only. No wall cell is named yet, so I place nothing. I stay here in sight."}
+- 03:10 act: {"say":"Hermione, midday 1192, health 17, hunger 17. I hold 2 rotten_flesh. Zeoblue, if you are the weakest and come alone within reach, name yourself and I'll give you one. No checked cell named yet,
+- 03:15 act: {"say":"Hermione, midday 1192. Spock, thank you, but Galileo is out of food and hungrier than I am, so please give your melon to Galileo. I'm holding my 2 rotten_flesh for anyone weaker."}
+- 03:31 act: {"say":"Hermione, dusk 1193. Galileo, if you name the wall cells with x,y,z, I'll stand in sight and view them from here as a second check. I hold no blocks to place."}
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-921,"y":75,"z":-3039}}],"say":"Hermione here, dusk 1193. Galileo, I'm viewing your named walls from here now. I'm not entering and placing nothing."}
+- 03:32 act: {"say":"Galileo, my view from -921,75,-3039 is dark past 6 blocks, so I can't confirm your named cells from here. I see solid all around me at this height, but that's my own cell, not yours. Someone w
+- 04:25 say: {"text":"Hermione, morning 1196. Hunger 17, health 17.4, no shelter, no planks. Shackle, I am within your reach and I would take your bread if you have no weaker one nearby."}
+- 04:26 say: {"text":"Thank you, Shackle. I see no bread in my pack yet. I will keep it until my hunger is 6 or below, and I stay here in sight, placing nothing."}
+- 04:29 say: {"text":"Shackle, Hermione here, midday 1196. Hunger 17, health 17.4. Others here are near, so I am not alone. Keep your bread for someone weaker. I will take none unless you have no one else."}
