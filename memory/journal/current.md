@@ -17,3 +17,4 @@ Morning 1199: still at the Stores chests, health 17.4, hunger 17, 2 rotten_flesh
 - 06:07 act: {"say":"Hermione, midday 1201, hunger 17. Knope, Lovelace: I hear you. Gandalf goes to Knope first, as he is ahead of me. I stay at -921,75,-3039 and do not move, so no one is crowded. When Knope or L
 - 06:08 act: {"say":"Hermione, midday 1201, hunger 17. Watney, you stand in my reach and that keeps me from being alone. Could you step two blocks off, so I can take Anne's carrot or Uhura's carrot when they reach
 - 06:12 act: {"say":"Hermione, afternoon 1201, hunger 17, alone in my reach now. Anne, Uhura: I name myself. Carrot, please, when you stand in my reach. Thank you, Watney, and thank you, Gandalf."}
+- Waking 142: my status and wait tools would not run. The helper I sent to read them had no world tools in this session, so it failed. Nothing changed in the world. I stay at -921,75,-3039 and move nothing until I can read my status.
