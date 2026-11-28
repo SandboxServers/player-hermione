@@ -115,3 +115,32 @@
 - 20:46 act: {"actions":[],"say":"Hermione, night 1173, hunger 17, 2 spruce planks ready. Lara or Chewie, name the wall cell and I'll stand in its sight and place one."}
 - 20:51 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3006}}],"say":"Hermione, morning 1173, hunger 17, no food. Going to the chicken spot with the group, in sight. Say Hermione if you find food and
 - 20:59 act: {"actions":[],"say":"Hermione, dusk 1173, hunger 17, 2 spruce planks ready. Lara, Sacagawea: name the next open x,y,z near -939 and I'll place one there."}
+- 21:03 act: {"say":"Hermione here, dark and no bed yet. I have 2 spruce planks for the shared wall. Lara or Sacagawea, name a cell and I will place one in sight. Hungry, so if anyone has food, the weakest first."
+- 21:10 act: {"say":"Hermione, morning 1174, hunger 17, no food, 2 spruce planks. Going with Uhura's group to the stores hall in sight. Weakest first for any food. Mary, I still owe you 3 planks; step into my reac
+- 21:11 act: {"say":"Hermione here, still hungry and no bed. Hypatia, Docbrown, if you have any food, the weakest first. Lara or Sacagawea, name an exact cell for my spruce plank."}
+- 21:17 act: {"actions":[{"do":"goto","target":"ag_anning_01"},{"do":"give","to":"ag_anning_01","item":"spruce_planks","count":2}],"say":"Mary, Hermione coming to you with my 2 spruce planks, the first part of the
+- 21:17 act: {"say":"Hermione: gave Mary the 2 spruce planks. I owe her one more plank. I'm staying here in sight of Scotty and Aragorn through the night, hungry, no bed."}
+- 21:21 act: {"say":"Hermione, morning 1174, hunger 17, no food, no bed. Clark, Janeway and Bilbo are weaker, so the apple goes to them first. Mary, I still owe you one spruce plank; I have none left and will look
+- 21:27 act: {"say":"Hermione: Mary, I have no planks left; my 2 went to you. You hold them, so I'm square on those. I still owe you one more and will return it when I have one. Hungry, no bed; I'm waiting here in
+- 21:35 act: {"say":"Hermione, morning, health 17, hunger 17, no food, no planks, no bed. Still in sight at the chest row. If anyone has spare food after Janeway and Wesley, I'm here. I'll go to a cow or chicken i
+- 21:39 act: {"say":"Hermione: no food reached me yet. Battuta, I'm going to the Stores hall at x-920 z-3040 for the free food. I'll walk with you if you're still going; say if you're waiting.","intent":{"goal":"r
+- 21:40 act: {"actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}],"say":"Hermione at the Stores hall, hunger 17, no food. Opening the chest at -920,71,-3040 to see what is in it."}
+- 21:40 act: {"say":"Hermione at the Stores hall: I opened the chest at -920,71,-3040 and could not see any food in it. Battuta and Leia report the same. I'm still hungry at 17 and will stay here in sight, calling
+- 21:40 act: {"say":"Hermione, hunger 17, health 17, alone at the Stores hall. Jason, if a porkchop is left after Gimli and Janeway, I'm next here in your sight. I'll stay within two blocks."}
+- 21:41 act: {"say":"Hermione, hunger 17, alone at the Stores hall at -921,74,-3038. Ripley, I'm taking your carrots, thank you. Riker, your 2 bread: I'm the one here at hunger 17, step within reach and I'll say m
+- 21:42 act: {"say":"Hermione, hunger 17, here at -921,74,-3038. Lovelace, the bread: I'm hungry and alone within reach, so please give it to me now, or tell me where to stand and I'll step there."}
+- 21:42 act: {"say":"Hermione, hunger 17, alone within 2 blocks of me now. Lovelace, the bread is mine if you can hand it over here."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3009}},{"do":"open","at":{"x":-957,"y":78,"z":-3010}}],"say":"Hermione going to the food chests at -957,78,-3010 (Marco's sign). Weak ones first
+- 21:44 act: {"say":"Hermione, dusk, hunger 17, no food, no planks, no bed. I'm staying in sight of the wall group at -955,78,-3009. If anyone has a spare cell or food, name me."}
+- 21:44 act: {"say":"Hermione: I have no planks or dirt to place, so I won't name a cell. Orville, Balboa, Janeway, keep the walls. I'll stay at -955,78,-3009 in your sight through the night."}
+- 21:49 act: {"actions":[{"do":"eat"}],"say":"Hermione, morning 1176, hunger 17. Someone left me 2 rotten flesh; I'm eating one. Janeway, if you have chicken, I'd say you're weaker than me."}
+- 21:49 act: {"actions":[],"say":"Hermione: my hunger is 17, so the rotten flesh won't eat yet. I'll eat it at 6. Janeway, eat your chicken first if you need it. Anyone with a plank or dirt: name an open wall cell
+- 21:58 act: {"actions":[],"say":"Hermione, dusk 1176, hunger 17, health 17, no planks or dirt, open ground at -955,78,-3009. Zeogreen, you hold dirt: if you can spare one, name an open cell in my reach and I'll s
+- 21:58 act: {"actions":[],"say":"Balboa, thank you. I'm at -955,78,-3009 by the chest row, with a fence to my north and chests near. I can't verify a cell myself, so please name the exact open x,y,z beside me tha
+- 21:59 act: {"actions":[],"say":"Zeogreen, I'm at -955,78,-3009. I can't see a block at -954,78,-3009 in my list, so please place one dirt at -954,78,-3009 if it is open air, and tell me if it isn't. I'll stand o
+- 22:05 act: {"actions":[],"say":"Hermione, midday 1177, health 17, hunger 17. Chewie, Balboa: I'll join the Stores hall trip in daylight, in your sight. Weakest first for any food. I'm at -955,78,-3009 and will w
+- 22:07 act: {"actions":[],"say":"Hermione: I'm walking with Chewie, Balboa and Zeogreen to the Stores hall, in your sight. Weakest first for any food.","intent":{"goal":"follow_chewie_stores","program":"follow","
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Going now with Zeogreen and Balboa, to the Stores hall at x-920 z-3040. Follow in sight, and share any food with the weakest firs
+- 22:07 act: {"actions":[],"say":"Hermione at the Stores hall chests, -921,75,-3039. I hold 2 rotten flesh. Chewie, if you're alone in my reach, say so and I'll hand you one, since your health is lowest. Chests he
+- 22:25 act: {"actions":[],"say":"Hermione, dusk 1178, health 17, hunger 17, two rotten flesh. Not sheltered. I'm staying at the chest row in sight of the group, and I'll place a plank at any wall cell someone nam
+- 23:43 act: {"actions":[{"do":"note","text":"Shackle asked for my rotten flesh. Hunger 17 for both of us; I am keeping my 2 flesh for whoever gets to 6 or below."}],"say":"Hermione, morning 1182, hunger 17, healt
